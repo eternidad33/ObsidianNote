@@ -1,0 +1,8 @@
+views:
+  - type: cards
+    name: 表格
+  - type: table
+    name: 视图
+    sort:
+      - property: file.name
+        direction: ASC
