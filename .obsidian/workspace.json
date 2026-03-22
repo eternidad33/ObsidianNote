@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "580b783c3f0d54a7",
+        "id": "29b4cf73149880cf",
         "type": "tabs",
         "children": [
           {
-            "id": "93300bed3c088efc",
+            "id": "21038582807accea",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "README 的反向链接列表"
             }
           },
           {
@@ -141,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "README 的大纲"
             }
           },
           {
@@ -155,11 +157,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "README 的出链列表"
             }
           },
           {
@@ -177,7 +180,9 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "README.md"
+              },
               "icon": "lucide-file-signature",
               "title": "脚注"
             }
@@ -202,8 +207,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93300bed3c088efc",
+  "active": "21038582807accea",
   "lastOpenFiles": [
+    "笔记数据库.base",
+    "README.md",
     "Obsidian使用/日记模板.md",
     "随手记/【随手记】2026-03-22-周日.md",
     "Obsidian使用/未命名 2.md",
@@ -216,9 +223,7 @@
     "Obsidian使用/未命名 3.md",
     "Obsidian使用",
     "Obsidian使用.base",
-    "未命名.base",
     "未命名.canvas",
-    "哈哈哈哈.md",
-    "README.md"
+    "哈哈哈哈.md"
   ]
 }

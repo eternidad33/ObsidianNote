@@ -1,2 +1,2 @@
-# ObsidianNote
-📕Obsidian的笔记
+2026年及以后的笔记都在obsidian上记录
+
